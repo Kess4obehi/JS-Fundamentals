@@ -1,0 +1,1 @@
+This Project is focused on learning the fundamentals of Javascript. It shows how much i have understood javascripts variables, data types, operators and operator precedence, controlling program flow, functions, objects and arrays, intrinsic objects etc.
